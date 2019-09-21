@@ -1,0 +1,47 @@
+{
+    "bodyTemplate7Data": {
+        "type": "object",
+        "objectId": "bt7Sample",
+        "title": "PETRA",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://d2o906d8ln7ui1.cloudfront.net/images/BT7_Background.png",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://d2o906d8ln7ui1.cloudfront.net/images/BT7_Background.png",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "image": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://cdn1.i-scmp.com/sites/default/files/styles/1200x800/public/images/methode/2018/05/02/b92139de-42c2-11e8-ab09-36e8e67fb996_1280x720_134359.jpg?itok=hxdEJryx",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://cdn1.i-scmp.com/sites/default/files/styles/1200x800/public/images/methode/2018/05/02/b92139de-42c2-11e8-ab09-36e8e67fb996_1280x720_134359.jpg?itok=hxdEJryx",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "logoUrl": "https://d2o906d8ln7ui1.cloudfront.net/images/cheeseskillicon.png",
+        "hintText": "Try, \"Alexa, search for blue cheese\""
+    }
+}

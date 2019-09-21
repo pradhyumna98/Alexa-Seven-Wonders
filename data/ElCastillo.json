@@ -1,0 +1,47 @@
+{
+    "bodyTemplate7Data": {
+        "type": "object",
+        "objectId": "bt7Sample",
+        "title": "EL CASTILLO",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://d2o906d8ln7ui1.cloudfront.net/images/BT7_Background.png",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://d2o906d8ln7ui1.cloudfront.net/images/BT7_Background.png",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "image": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwh8crvzR6U2LArHWSZSOYV_WhFj800cCswZsXw98KsWaH1ewd",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwh8crvzR6U2LArHWSZSOYV_WhFj800cCswZsXw98KsWaH1ewd",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "logoUrl": "https://d2o906d8ln7ui1.cloudfront.net/images/cheeseskillicon.png",
+        "hintText": "Try, \"Alexa, search for blue cheese\""
+    }
+}

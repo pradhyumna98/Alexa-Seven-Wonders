@@ -1,0 +1,47 @@
+{
+    "bodyTemplate7Data": {
+        "type": "object",
+        "objectId": "bt7Sample",
+        "title": "SEVEN WONDERS OF THE WORLD",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://d2o906d8ln7ui1.cloudfront.net/images/BT7_Background.png",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://d2o906d8ln7ui1.cloudfront.net/images/BT7_Background.png",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "image": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://steemitimages.com/DQmYdCcsMyD5UpvCj5XMSkLeqBAd6KtWu91KmD4LZLqbicW/images%20(5).jpeg",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://steemitimages.com/DQmYdCcsMyD5UpvCj5XMSkLeqBAd6KtWu91KmD4LZLqbicW/images%20(5).jpeg",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "logoUrl": "https://steemitimages.com/DQmYdCcsMyD5UpvCj5XMSkLeqBAd6KtWu91KmD4LZLqbicW/images%20(5).jpeg",
+        "hintText": "Try, \"Alexa, search for blue cheese\""
+    }
+}
